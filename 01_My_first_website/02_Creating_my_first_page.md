@@ -1,8 +1,7 @@
 Finally we will create our first page in the website, let's start:
 
 1. Creating a file.
-
-   ![screenshot](https://lh4.googleusercontent.com/TXGCZA5Q9uUFawSzcOhy4PIEP-fldAM7c6UI0RhKoifN3UGj_G_aXI8Mizj9DX_sRRyun19oz0MBxNgCC27IbzbrkSi6wdkK_T23XFbA3MA1pePDOWP2r2Q1ZKPhlZOirLW5a3qW" alt="img " style="zoom:25%;)
+   ![screenshot](https://lh4.googleusercontent.com/TXGCZA5Q9uUFawSzcOhy4PIEP-fldAM7c6UI0RhKoifN3UGj_G_aXI8Mizj9DX_sRRyun19oz0MBxNgCC27IbzbrkSi6wdkK_T23XFbA3MA1pePDOWP2r2Q1ZKPhlZOirLW5a3qW)
 
 2. I will name it `page1`
 

@@ -30,7 +30,7 @@ We will do the following steps:
 
 1. Right click and copy the path
 
-   <img src="https://lh5.googleusercontent.com/4JjF7_XmIBl4Opl1hA5RL1WJrFknQRYMXJNmvgLTyvdxhflTZQCkXrUj8FenYoZ-d5HXQUat6YUjxEoKhCtig1bjGR4095JoivXyiXOPf0uJHrOYlXC92HpjffPlXzY_zYF1mxlW" alt="img" style="zoom:50%;" />
+   <img src="https://lh5.googleusercontent.com/4JjF7_XmIBl4Opl1hA5RL1WJrFknQRYMXJNmvgLTyvdxhflTZQCkXrUj8FenYoZ-d5HXQUat6YUjxEoKhCtig1bjGR4095JoivXyiXOPf0uJHrOYlXC92HpjffPlXzY_zYF1mxlW" " />
 
 2. Now open Google Chrome
 
