@@ -30,7 +30,7 @@ We will do the following steps:
 
 1. Right click and copy the path
 
-   <img src="https://lh5.googleusercontent.com/4JjF7_XmIBl4Opl1hA5RL1WJrFknQRYMXJNmvgLTyvdxhflTZQCkXrUj8FenYoZ-d5HXQUat6YUjxEoKhCtig1bjGR4095JoivXyiXOPf0uJHrOYlXC92HpjffPlXzY_zYF1mxlW" " />
+   ![Screenshot](https://lh5.googleusercontent.com/4JjF7_XmIBl4Opl1hA5RL1WJrFknQRYMXJNmvgLTyvdxhflTZQCkXrUj8FenYoZ-d5HXQUat6YUjxEoKhCtig1bjGR4095JoivXyiXOPf0uJHrOYlXC92HpjffPlXzY_zYF1mxlW)
 
 2. Now open Google Chrome
 
@@ -81,7 +81,7 @@ We can not write everything in headings, that is why HTML gave us a tag that is 
 
 After saving and refreshing the page, this will appear:
 
-![screenshot](https://lh4.googleusercontent.com/GOa33XYIFFGDdgQC_Htub_Th62sH7MkjGHQbUTl2VIVwUfd-smuQ9Shj8KV-aNHNesjuvkXFj_XIyBTB4cqB_dJ1wj96ChqAF9CKctweoTYA1PEus3K4ksN3mM65aHMrTVBtDbgP" alt="img" style="zoom: 80%;)
+![screenshot](https://lh4.googleusercontent.com/GOa33XYIFFGDdgQC_Htub_Th62sH7MkjGHQbUTl2VIVwUfd-smuQ9Shj8KV-aNHNesjuvkXFj_XIyBTB4cqB_dJ1wj96ChqAF9CKctweoTYA1PEus3K4ksN3mM65aHMrTVBtDbgP)
 
 **⚠ Common Mistake:**
 

@@ -2,7 +2,7 @@ HTML is the base of all websites, you will not find a website that can be publis
 
 First let us understand how HTML identifies the website's page structure.
 
-![screenshot](https://lh5.googleusercontent.com/jU_LuDjDZrL0iqLNAUgNr1dOysPbo1YVK1Br-SrRRhEjmh-sSNkl9tDHnXmNkULVeQ6XoLHVx7aPIIK52of0Q6u0e7heXkxDPTd-GvFV6yluaJOTNasLtURBJcMOJKJzII1I0V05")
+![screenshot](https://lh5.googleusercontent.com/jU_LuDjDZrL0iqLNAUgNr1dOysPbo1YVK1Br-SrRRhEjmh-sSNkl9tDHnXmNkULVeQ6XoLHVx7aPIIK52of0Q6u0e7heXkxDPTd-GvFV6yluaJOTNasLtURBJcMOJKJzII1I0V05)
 
 HTML looks at things differently, it has an abstract look at things without caring about how it is styled on the page.
 

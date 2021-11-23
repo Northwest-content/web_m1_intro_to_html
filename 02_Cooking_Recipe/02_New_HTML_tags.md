@@ -219,7 +219,7 @@ By doing the same steps to create the `index.html` page:
 
    `<a>` is short for anchor which has the meaning of connecting your website to another place through an anchor.
 
-   <img src="C:\Users\Malba\AppData\Roaming\Typora\typora-user-images\image-20210613181551964.png" alt="image-20210613181551964" style="zoom: 80%;" />
+   ![screenshot](C:\Users\Malba\AppData\Roaming\Typora\typora-user-images\image-20210613181551964.png)
 
    I hope this image makes a better view of how HTML sees it.
 
