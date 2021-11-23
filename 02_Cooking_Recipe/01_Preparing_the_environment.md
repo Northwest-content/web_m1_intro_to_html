@@ -25,7 +25,7 @@ This is now easier than drinking a cup of water. To prepare this project, do the
 
 You should reach this reach this result:
 
-![screenshot](https://lh6.googleusercontent.com/89Ech1eVGu3The5Ykvo2zOiYO8sXoH2irn3t1yEY4Ej_O2GnZUejGSaq8Sl1nF-J360tRkONdOmj2euTB_RADDx3fK3H7FsKluw4PHagjTPO0NIIgZpUZZXiYiTUJsAo6MypZToo" alt="img" style="zoom:67%;)
+![screenshot](https://lh6.googleusercontent.com/89Ech1eVGu3The5Ykvo2zOiYO8sXoH2irn3t1yEY4Ej_O2GnZUejGSaq8Sl1nF-J360tRkONdOmj2euTB_RADDx3fK3H7FsKluw4PHagjTPO0NIIgZpUZZXiYiTUJsAo6MypZToo)
 
 Next, prepare your browser by doing the following:
 

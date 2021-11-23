@@ -9,7 +9,7 @@ Lets first do the following:
 
    For us we choose Caesar Salad, do not judge it is easy to explain. The website will look like this
 
-![screenshot](https://lh3.googleusercontent.com/Yqiyo19HXCLzkBxD2Kwkn4rZdhqSBim8L8FdpLgh2O8fBc2olbRI_ISskkfB7_-oh5V9CDNVo1HrO5olUm5WkMY8xRMfCv1ahGyExsLhEKgx62qrLl9pNTXp76T7GlpI4JdjPzcR" alt="img" style="zoom:80%;)
+![screenshot](https://lh3.googleusercontent.com/Yqiyo19HXCLzkBxD2Kwkn4rZdhqSBim8L8FdpLgh2O8fBc2olbRI_ISskkfB7_-oh5V9CDNVo1HrO5olUm5WkMY8xRMfCv1ahGyExsLhEKgx62qrLl9pNTXp76T7GlpI4JdjPzcR")
 
 Just by writing this code:
 
@@ -62,7 +62,7 @@ Source in this case as following:
 
 1.  Create a folder in your file by doing the following
 
-![screenshot](https://lh3.googleusercontent.com/3rVdAypOBV3GvA2lr5VxmFOqthJKE5l8WeIiEPubAEj37xa1g1fym7dZOzVAqzdmz6NVDK6gbOsc4X_KvYWft5ae_MFpW4KBCZM_jHqlQOhKVKidh3V1wYKH-DozyJ1aQm7HU5c5" alt="img" style="zoom:67%;)
+![screenshot](https://lh3.googleusercontent.com/3rVdAypOBV3GvA2lr5VxmFOqthJKE5l8WeIiEPubAEj37xa1g1fym7dZOzVAqzdmz6NVDK6gbOsc4X_KvYWft5ae_MFpW4KBCZM_jHqlQOhKVKidh3V1wYKH-DozyJ1aQm7HU5c5)
 
 2. Name the folder with a meaningful names, I will call mine `images`
 
